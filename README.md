@@ -34,11 +34,10 @@ This build is based on a Siboor 0.2 kit, with white frame and printed parts.
 |[Tophat Sealing Blocks](https://www.printables.com/model/728972-voron-v02-tophat-1515-sealing-block) - In theory, it reduces the amount of hot air that can escape the chamber. I'm currently testing my own remix that also mounts the Matchstick LEDs.|
 |[Upper Rear Bowden Inlet with split](https://www.printables.com/model/955328-v0-upper-rear-bowden-inlet-urbi-for-voron-v0-split) - Makes filament load/unload a breeze. The split design means it can be printed on the V0 and superglued together|
 |[Thicker Thumb Screws](https://www.printables.com/model/456042-voron-v0-thicker-thumb-nuts) - Easier bed-levelling.|
-
+|[Klipper Expander mount](https://www.printables.com/model/508445-klipper-expander-mount-for-v02-and-v02-r1-rear-ski) and [cover](https://www.printables.com/model/753695-klipper-expander-cover)|
 
 |Aesthetic Mods|
 |-|
-|[Klipper Expander mount](https://www.printables.com/model/508445-klipper-expander-mount-for-v02-and-v02-r1-rear-ski) and [cover](https://www.printables.com/model/753695-klipper-expander-cover)|
 |[One Piece Panel Clips](https://www.printables.com/model/732219-one-piece-panel-clips-for-voron-v02)|
 |[Skirt Mesh Set](https://www.printables.com/model/369688-voron-02-v02-skirt-set-mesh-only)|
 
