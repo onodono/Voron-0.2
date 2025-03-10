@@ -39,7 +39,7 @@ These are my thoughts about the Siboor 0.2 kit experience.
 |[FZ Extruder](https://github.com/FZaii/FZ-Extruder/tree/main) - I like how the latching system makes manual filament load and unload very easy. But now I forget to close the latch sometimes...|
 |[Dragon Burner V8](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner)|
 |[Side Panels](https://www.printables.com/model/1094180-voron-0-side-panels) - In theory, this reduces the volume of air that needs to be heated inside the chamber of the V0, reducing the amount of time needed to reach max temp.|
-|[Magnetic Backplate](https://www.printables.com/model/659559-magnetic-backplate-for-voron-v02) - Cools the MCU and host board to prevent shutdown when printing at high temp. The magnetic attachment makes removal very accessible.|
+|[Magnetic Backplate](https://www.printables.com/model/659559-magnetic-backplate-for-voron-v02) - Cools the MCU and host board to prevent shutdown when printing at high temp. The magnetic attachment makes removal very straightforward.|
 [Foldable Spool Holder with springload](https://www.printables.com/model/586376-foldable-spool-holder-for-voron-02-with-spring)|
 |[Z-Cover for Kirigami bed](https://www.printables.com/model/1043218-voron-v02-z-cover-for-kirigami-mode-esay-installat) - Stops scraps of filament from falling below the deck.|
 |[Lazy Cam - Tool Free Locking Idlers](https://www.printables.com/model/533483-voron-02-lazycams-tool-free-locking-idlers-models-)|
