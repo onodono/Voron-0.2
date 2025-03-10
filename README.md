@@ -6,6 +6,16 @@ This build is based on a Siboor 0.2 kit, with white frame and printed parts.
 |----|--------|
 |Siboor 0.2 kit with white frame and white printed parts. No hotend included as I already had a Dragon HF|442.88|
 
+These are my thoughts about the Siboor 0.2 kit experience.
+
+- The white 1515 aluminium extrusion is painted not anodised. This is an issue as the paint blobbed a little bit on the ends and made it harder to square the frame and thread in the screws. Ideally, they would be anodised.
+- The hardware kit that includes all the screws and fasteners is excellent. It comes with lots of spares of the common screws.
+- The Fly Gemini V3 that is included is a let down. It is extremely slow to boot, ~60 seconds, and the documentation around flashing the MCU and host is hard to find/follow. This is more of a Mellow issue. Better boards include the BTT Manta series.
+- The printed parts have been excellent with no curling/warping and good quality overall.
+- Customer support has been helpful both times when parts have failed without reason. For example, the integrated lead screw seized up and the bed thermistor stopped working. Both were replaced free of charge (disregarding the $1 USD to create an Aliexpress tracked shipping label)
+- The included power supply is a 300W Changzhou Chuanglian Power Supply that has an always-on fan. The fan is loud and annoying especially when the printer is idle.
+- I decided not to use the included V0 Display and run my V0 headless. It allows me to take off the front door and lay the printer flat on the front for maintenance. The V0 Display is also limited in functionality. I didn't find it that useful and would use my mobile phone to access Mainsail anyway.
+
 ## Electronic Mods
 | Electronic Mods | Price (USD) |
 | ----------------| --------------|
